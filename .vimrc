@@ -77,3 +77,4 @@ filetype plugin indent on     " required
 
 colorscheme molokai
 syntax on
+set visualbell t_vb=
